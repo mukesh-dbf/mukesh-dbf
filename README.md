@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukesh-dbf
 - 👀 I’m interested in 3D Geospatial engineering
-- 🌱 I’m currently learning as Intern
+- 🌱 I’m currently working with 3D Geospatial tech. 
 
 
 <!---
