@@ -17,5 +17,5 @@ I'm actively involved in the field of 3D geospatial technology, working on cutti
 - [Estimation of soil erosion in indo-gangetic region using revised universal soil loss equation (RUSLE) model and geospatial technology](https://link.springer.com/article/10.1007/s40808-022-01553-w)
 
 
-Feel free to reach out and connect! Let's collaborate on exciting geospatial projects. 🌍✨
+
 
