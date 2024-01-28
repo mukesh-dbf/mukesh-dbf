@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mukesh
 
 ## 👀 About Me
-As a dedicated Geospatial Data Scientist and 3D Geospatial Engineer, I specialize in the intricate domains of land, terrain, climate, and spatial modeling. My professional endeavors are deeply rooted in the realm of 3D city and building spatial modeling, leveraging cutting-edge geospatial technologies. These include, but are not limited to, satellite imagery, lidar, drone technology, terrain data (DSM, DTM), orthophotos, and sophisticated spatiotemporal analysis. My passion lies in harnessing these tools to unravel the complexities of our physical world and translate them into meaningful, actionable insights.
+"I'm a Geospatial Data Scientist and 3D Geospatial Engineer specializing in 3D city and building spatial modeling. I use cutting-edge geospatial technologies for spatial modeling and analysis to gain actionable insights into our physical world."
 
 ## 🌱 Currently
 I'm actively involved in the field of 3D geospatial generative technology, working on cutting-edge projects and exploring innovative solutions to address complex challenges.
